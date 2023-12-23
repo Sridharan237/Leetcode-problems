@@ -1,0 +1,5 @@
+N - add y-axis 1 unit
+S - sub y-axis 1 unit
+E - add x-axis 1 unit 
+W - sub x-axis 1 unit
+
